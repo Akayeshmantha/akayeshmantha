@@ -6,7 +6,7 @@
     <br><br>
     I work as a Full Stack :globe_with_meridians: developer!
     <br><br>
-    I believe in a open source :grin:
+    I believe in an open source world :grin:
     <br><br>
     P.S. I do believe in pull requests! :v:
   </samp>
