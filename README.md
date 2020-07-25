@@ -43,11 +43,3 @@
 
 </details>
 
-<a href="https://github.com/apache/incubator-apisix">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=akayeshmantha&repo=incubator-apisix&show_owner=true" />
-</a>
-
-<a href="https://github.com/apache/juneau">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=akayeshmantha&repo=juneau&show_owner=true" />
-</a>
-
