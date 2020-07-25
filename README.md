@@ -51,8 +51,3 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=akayeshmantha&repo=juneau" />
 </a>
 
-
-
-<p align="center">
-  Made with :blue_heart: &nbsp;using GitHub Markdown &nbsp;:arrow_down:
-</p>
