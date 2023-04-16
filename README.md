@@ -4,7 +4,7 @@
   <samp>
     I'm Ayeshmantha Perera :wave:
     <br><br>
-    I work as a Full Stack :globe_with_meridians: developer!
+    I work as a Software :globe_with_meridians: Engineer!
     <br><br>
     I believe in an open source world :grin:
     <br><br>
